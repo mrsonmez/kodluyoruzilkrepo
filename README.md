@@ -7,7 +7,7 @@ bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 git clone https://github.com/mrsonmez/kodluyoruzilkrepo
 ```
 ## Usage
-Projeyi cloneladıktan sonra Cisual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 ```
 cd kodluyoruzilkrepo
